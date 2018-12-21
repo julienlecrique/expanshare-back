@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "title": "piscine",
+    "amount": "15.00",
+    "createdAt": "2018-12-13T00:00:00+00:00",
+    "category": {
+      "id": 3,
+      "label": "activities",
+      "icon": "fa-bicycle",
+      "__initializer__": null,
+      "__cloner__": null,
+      "__isInitialized__": true
+    },
+    "person": {
+      "id": 1,
+      "firstname": "julien",
+      "lastname": "lecrique",
+      "shareGroup": {
+        "id": 1,
+        "slug": "vacancesport",
+        "createdAt": "2018-12-12T00:00:00+00:00",
+        "closed": true,
+        "__initializer__": null,
+        "__cloner__": null,
+        "__isInitialized__": true
+      },
+      "__initializer__": null,
+      "__cloner__": null,
+      "__isInitialized__": true
+    }
+  },
+  {
+    "id": 2,
+    "title": "minigolf",
+    "amount": "20.00",
+    "createdAt": "2018-12-14T00:00:00+00:00",
+    "category": {
+      "id": 3,
+      "label": "activities",
+      "icon": "fa-bicycle",
+      "__initializer__": null,
+      "__cloner__": null,
+      "__isInitialized__": true
+    },
+    "person": {
+      "id": 2,
+      "firstname": "julia",
+      "lastname": "forster",
+      "shareGroup": {
+        "id": 1,
+        "slug": "vacancesport",
+        "createdAt": "2018-12-12T00:00:00+00:00",
+        "closed": true,
+        "__initializer__": null,
+        "__cloner__": null,
+        "__isInitialized__": true
+      },
+      "__initializer__": null,
+      "__cloner__": null,
+      "__isInitialized__": true
+    }
+  },
+  {
+    "id": 3,
+    "title": "velo",
+    "amount": "10.00",
+    "createdAt": "2018-12-15T00:00:00+00:00",
+    "category": {
+      "id": 3,
+      "label": "activities",
+      "icon": "fa-bicycle",
+      "__initializer__": null,
+      "__cloner__": null,
+      "__isInitialized__": true
+    },
+    "person": {
+      "id": 1,
+      "firstname": "julien",
+      "lastname": "lecrique",
+      "shareGroup": {
+        "id": 1,
+        "slug": "vacancesport",
+        "createdAt": "2018-12-12T00:00:00+00:00",
+        "closed": true,
+        "__initializer__": null,
+        "__cloner__": null,
+        "__isInitialized__": true
+      },
+      "__initializer__": null,
+      "__cloner__": null,
+      "__isInitialized__": true
+    }
+  },
+  {
+    "id": 4,
+    "title": "restaurant",
+    "amount": "50.00",
+    "createdAt": "2018-04-11T00:00:00+00:00",
+    "category": {
+      "id": 2,
+      "label": "food",
+      "icon": "fa-cutlery",
+      "__initializer__": null,
+      "__cloner__": null,
+      "__isInitialized__": true
+    },
+    "person": {
+      "id": 3,
+      "firstname": "antoine",
+      "lastname": "barrier",
+      "shareGroup": {
+        "id": 2,
+        "slug": "camping",
+        "createdAt": "2018-04-10T00:00:00+00:00",
+        "closed": false,
+        "__initializer__": null,
+        "__cloner__": null,
+        "__isInitialized__": true
+      },
+      "__initializer__": null,
+      "__cloner__": null,
+      "__isInitialized__": true
+    }
+  },
+  {
+    "id": 5,
+    "title": "hotel",
+    "amount": "100.00",
+    "createdAt": "2018-04-11T00:00:00+00:00",
+    "category": {
+      "id": 4,
+      "label": "hotel",
+      "icon": "fa-bed",
+      "__initializer__": null,
+      "__cloner__": null,
+      "__isInitialized__": true
+    },
+    "person": {
+      "id": 3,
+      "firstname": "antoine",
+      "lastname": "barrier",
+      "shareGroup": {
+        "id": 2,
+        "slug": "camping",
+        "createdAt": "2018-04-10T00:00:00+00:00",
+        "closed": false,
+        "__initializer__": null,
+        "__cloner__": null,
+        "__isInitialized__": true
+      },
+      "__initializer__": null,
+      "__cloner__": null,
+      "__isInitialized__": true
+    }
+  }
+]

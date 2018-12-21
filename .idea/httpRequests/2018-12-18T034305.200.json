@@ -1,0 +1,21 @@
+[
+  {
+    "id": "3",
+    "firstname": "antoine",
+    "lastname": "barrier",
+    "expenses": [
+      {
+        "id": "4",
+        "title": "restaurant",
+        "amount": "50.00",
+        "createdAt": "2018-04-11T00:00:00+00:00"
+      },
+      {
+        "id": "5",
+        "title": "hotel",
+        "amount": "100.00",
+        "createdAt": "2018-04-11T00:00:00+00:00"
+      }
+    ]
+  }
+]

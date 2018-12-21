@@ -1,0 +1,236 @@
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person/group/vacancesport
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-18T034518.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person/group/vacancesport
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-18T034354.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person/group/camping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-18T034305.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person/group/camping
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-18T034138.500.html
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person/group/
+Accept: */*
+Cache-Control: no-cache
+
+<> 2018-12-18T034059.500.html
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/sharegroup/camping
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-18T031347.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/sharegroup/camping
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-18T104004.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/dashboard
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-18T121542.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/dashboard
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-18T121146.500.html
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/dashboard
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-18T121059.500.html
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/dashboard
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-18T121014.500.html
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/dashboard
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-18T120936.500.html
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/expense
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-18T120925.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/expense
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-17T044445.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/expense
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-17T030812.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-17T030026.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-17T025711.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-17T025344.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/expense
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-17T110117.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/sharegroup
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-17T100816.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/sharegroup
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-17T100649.500.html
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+
+<> 2018-12-14T032016.200.json
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With': 'XMLHttpRequest
+
+<> 2018-12-14T031657.500.html
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With': 'XMLHttpRequest
+
+<> 2018-12-14T024533.500.html
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With': 'XMLHttpRequest
+
+<> 2018-12-14T024202.500.html
+
+###
+
+GET http://localhost:8889/dcdev/expanseshare/expanshare-back/public/person
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With': 'XMLHttpRequest
+
+###
+
+GET http://localhost:8888/dcdev/expanseshare/expanshare-back/public/person
+Accept: */*
+Cache-Control: no-cache
+X-Requested-With': 'XMLHttpRequest
+
+<> 2018-12-14T024137.500.html
+
+###
+
